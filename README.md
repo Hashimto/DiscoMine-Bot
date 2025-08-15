@@ -1,0 +1,2 @@
+# DiscoMine-Bot
+Discord Botに統合版のminecraftのユーザーIDをDMしそのユーザーのXuidを検索し、出力されたxuidをもう一度検索し出てきたユーザーIDと送られてきたユーザーIDが同じものと分かればDiscord内でロールを付与するためのコードです。
